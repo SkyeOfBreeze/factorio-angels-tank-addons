@@ -1,0 +1,11 @@
+{
+    "name": "angels-tank-addons",
+    "version": "0.0.1",
+    "title": "Angels Tanks Addon",
+    "author": "SkyeOfBreeze",
+    "description": "Adds more tanks to the game extending the Angels Storage Addon mod.",
+    "factorio_version": "1.1",
+    "dependencies": [
+        "angelsaddons-storage >= 0.0.10"
+    ]
+}
