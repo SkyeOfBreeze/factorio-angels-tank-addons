@@ -24,8 +24,8 @@ if angelsmods.addons.storage.inlinetank and not mods["angelspetrochem"] then
         selection_box = { { -1, -1 }, { 1, 1 } },
         two_direction_only = false,
         fluid_box = {
-            height = 5,
-            base_area = 40,
+            height = 1,
+            base_area = 200,
             pipe_covers = pipecoverspictures(),
             pipe_connections = {
               { position = {0.5, -1.5} },
